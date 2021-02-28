@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125cd7a38ec5b4c4e99284182c5a20ee, type: 3}
+  m_Name: Go into phone
+  m_EditorClassIdentifier: 
+  gameText: You enter your phone, trying not to enter direct eye contect. Eye contact
+    is bad news, everyone knows this. The stranger is asking if you are ok. You've
+    been tensing up with your palms sweating. Evem the narrorator is starting to
+    panic. Quick, do something. [1] Panic and tense up more or [2] give a feint "Yep,
+    I'm ok"
+  otherStates:
+  - {fileID: 11400000, guid: e5bafa3b406e27749a6c7e604fe31b7c, type: 2}
+  - {fileID: 11400000, guid: 37bc13c97fc0dc940b2f30ff199a2e66, type: 2}

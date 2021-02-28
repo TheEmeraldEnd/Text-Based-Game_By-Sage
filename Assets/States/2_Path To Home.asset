@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125cd7a38ec5b4c4e99284182c5a20ee, type: 3}
+  m_Name: 2_Path To Home
+  m_EditorClassIdentifier: 
+  gameText: You choose to walk the normal route. You take the bus route home. On
+    the way you see strangers. An introverts worst nightmare. After some silent moments,
+    one of the strangers starts to engage in conversation. How do you respond? [1]
+    Attempt to say hello or [2] Retreat to the glowy rectangle haven.
+  otherStates:
+  - {fileID: 11400000, guid: d6e156582b61e654eb3f95bcfd1f9d7a, type: 2}
+  - {fileID: 11400000, guid: 78c11e2243848724781588258643bff3, type: 2}

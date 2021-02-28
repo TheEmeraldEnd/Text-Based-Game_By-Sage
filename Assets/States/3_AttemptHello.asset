@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125cd7a38ec5b4c4e99284182c5a20ee, type: 3}
+  m_Name: 3_AttemptHello
+  m_EditorClassIdentifier: 
+  gameText: You attempt to say hello. Instead of a hello, a quiet and squeaky "hey"
+    (yet the stranger still noticed). He just stares quietly in confusion. Later
+    on, there is a racoon that is wearing three sets of coats. Do you bring this
+    up as small talk[1] or do you contenue the silence[2]?
+  otherStates:
+  - {fileID: 11400000, guid: c46e2da446715a24a914e697fc1ad4b9, type: 2}
+  - {fileID: 11400000, guid: ffb7b3fbd21eaf441a825487816c6d31, type: 2}

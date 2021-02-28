@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125cd7a38ec5b4c4e99284182c5a20ee, type: 3}
+  m_Name: 1_Walk home
+  m_EditorClassIdentifier: 
+  gameText: It's a nice summers day. The nice city walks are blooming with lifeless
+    trash this time of year. Streets bustling with the wildlife of racoons and street
+    rats. Nothing out of the ordinary. Today, you feel something different. You can
+    contenue your path down to the house [1] or take the scenic route through the
+    suspicously peaceful park way [2].
+  otherStates:
+  - {fileID: 11400000, guid: eb74cccaed184a24796a96ad551276a2, type: 2}
+  - {fileID: 11400000, guid: 5a3c4373bc65a7342bf6dc1c9534b721, type: 2}

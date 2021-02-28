@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125cd7a38ec5b4c4e99284182c5a20ee, type: 3}
+  m_Name: 4_Talk AboutRacoon
+  m_EditorClassIdentifier: 
+  gameText: You bring up the racoon. He starts chuckling and things are contenueing
+    as normal. Is this normal? This must be. Panic attack at the ready if needed.
+    Oh no, he spoke but you didn't hear what he said. He starts chuckling. What do
+    you do? [1] Chuckle along or [2]redirect the conversation.
+  otherStates:
+  - {fileID: 11400000, guid: 9d0f25452f7c4184da9180f7f02a872d, type: 2}
+  - {fileID: 11400000, guid: fe00cab8ed4cca34aab0d238876272dd, type: 2}

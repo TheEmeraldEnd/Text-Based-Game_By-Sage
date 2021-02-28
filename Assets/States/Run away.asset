@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125cd7a38ec5b4c4e99284182c5a20ee, type: 3}
+  m_Name: Run away
+  m_EditorClassIdentifier: 
+  gameText: You start to question the logic behind this, but you start to run away.
+    You expect the guy to run after you, but after one look, he isn't no where to
+    be seen. You are now embarassed, maybe. You think you might be controlled, like
+    some sort of game. But that can't be true. It might jut be the tiredness. You
+    enjoy a good night. Press [1] to end.
+  otherStates:
+  - {fileID: 11400000, guid: 8c692dbba7c57d74abb9152d1e9fd8cf, type: 2}

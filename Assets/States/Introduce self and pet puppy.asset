@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125cd7a38ec5b4c4e99284182c5a20ee, type: 3}
+  m_Name: Introduce self and pet puppy
+  m_EditorClassIdentifier: 
+  gameText: You introduce yourself to the stranger and ask to pet his puppy. He lets
+    you pet him. Your anxiety isn't kicking up again this is the first. After a few
+    seconds, he tries to make conversation about the puppy. How do you respond? [1]
+    Contenue conversation shyly or [2] pet dog more.
+  otherStates:
+  - {fileID: 11400000, guid: e55f323466b2b51478390cd502245c01, type: 2}
+  - {fileID: 11400000, guid: af791846f5d6ada428c64d93dd6d41e3, type: 2}

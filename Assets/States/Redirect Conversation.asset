@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125cd7a38ec5b4c4e99284182c5a20ee, type: 3}
+  m_Name: Redirect Conversation
+  m_EditorClassIdentifier: 
+  gameText: You attempt to redirect the conversation. Instead of racoons, you reach
+    for the panic button and splurt out "Pigeon!" He is justly confused and in all
+    honesty, so is the narrarator. Luckily, the narrarator is also the bus driver,
+    so you go home just as you say "Pigion." [1] press to end.
+  otherStates:
+  - {fileID: 11400000, guid: 8c692dbba7c57d74abb9152d1e9fd8cf, type: 2}
